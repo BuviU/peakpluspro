@@ -1,0 +1,698 @@
+CRITICAL - 2024-03-15 11:27:45 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:27:45 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:27:46 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:27:46 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:27:46 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:29:24 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:29:25 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:29:25 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:29:25 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:32:24 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:32:25 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:32:25 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:33:08 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:35:34 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:35:35 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:35:36 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:38:16 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:38:16 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:39:40 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:39:41 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:39:41 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:39:41 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:39:42 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:39:42 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:39:43 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:40:02 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:40:03 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:44:15 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:44:15 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:44:16 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:44:50 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:46:07 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:46:07 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:46:07 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:48:57 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:48:57 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:48:57 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:50:03 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:50:03 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:50:46 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:50:47 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:50:47 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:50:47 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:52:09 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:52:09 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:53:10 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:53:11 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:55:34 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:55:35 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:55:35 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:55:36 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:58:44 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:58:45 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:58:45 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:58:45 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:59:25 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:59:26 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 11:59:26 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:00:23 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:02:17 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:02:17 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:02:17 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:02:18 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:02:24 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:02:25 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:02:25 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:03:01 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:03:01 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:03:35 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:03:35 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:03:36 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:05:36 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:05:36 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:05:37 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:05:37 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:18:36 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:18:36 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:18:55 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:23:35 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:23:35 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:23:36 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:25:19 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 12:25:20 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 13:50:44 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 13:50:45 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php on line 871
+in SYSTEMPATH\Database\BaseBuilder.php on line 983.
+ 1 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->like('exercise_name', [...])
+ 2 APPPATH\Controllers\Exercise\AddExcerciseController.php(130): CodeIgniter\Model->__call('like', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->itemSearch()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 15:49:57 --> Class "App\Controllers\Exercise\ProgramModel" not found
+in APPPATH\Controllers\Exercise\MembershipController.php on line 103.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\MembershipController->getMembershipDetails('1')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\MembershipController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 15:50:19 --> Class "App\Controllers\Exercise\ProgramModel" not found
+in APPPATH\Controllers\Exercise\MembershipController.php on line 103.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\MembershipController->getMembershipDetails('1')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\MembershipController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-15 15:58:41 --> Class "App\Controllers\Exercise\ProgramModel" not found
+in APPPATH\Controllers\Exercise\MembershipController.php on line 103.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\MembershipController->getMembershipDetails('1')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\MembershipController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,56 @@
+CRITICAL - 2024-03-07 10:19:51 --> Class "App\Controllers\Exercise\AddExerciseModel" not found
+in APPPATH\Controllers\Exercise\ExcerciseController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-07 10:24:44 --> Class "App\Controllers\Exercise\AddExerciseModel" not found
+in APPPATH\Controllers\Exercise\ExcerciseController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-07 10:24:45 --> Class "App\Controllers\Exercise\AddExerciseModel" not found
+in APPPATH\Controllers\Exercise\ExcerciseController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-07 10:24:45 --> Class "App\Controllers\Exercise\AddExerciseModel" not found
+in APPPATH\Controllers\Exercise\ExcerciseController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-07 10:24:46 --> Class "App\Controllers\Exercise\AddExerciseModel" not found
+in APPPATH\Controllers\Exercise\ExcerciseController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-07 10:24:46 --> Class "App\Controllers\Exercise\AddExerciseModel" not found
+in APPPATH\Controllers\Exercise\ExcerciseController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-07 10:25:04 --> Undefined array key "series"
+in APPPATH\Views\pages\exercise\add_exercise.php on line 59.
+ 1 APPPATH\Views\pages\exercise\add_exercise.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "series"', 'F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\add_exercise.php', 59)
+ 2 SYSTEMPATH\View\View.php(228): include('F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\add_exercise.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/exercise/add_exercise', [], true)
+ 5 APPPATH\Controllers\Exercise\ExcerciseController.php(39): view('pages/exercise/add_exercise', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-07 10:37:13 --> syntax error, unexpected token "<"
+in APPPATH\Views\pages\exercise\add_exercise.php on line 48.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/exercise/add_exercise', [], true)
+ 3 APPPATH\Controllers\Exercise\ExcerciseController.php(39): view('pages/exercise/add_exercise', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

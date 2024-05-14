@@ -1,0 +1,206 @@
+CRITICAL - 2024-03-20 13:51:00 --> strip_tags(): Argument #1 ($string) must be of type string, array given
+in SYSTEMPATH\Validation\Validation.php on line 298.
+ 1 SYSTEMPATH\Validation\Validation.php(298): strip_tags([...])
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('exercise', 'exercise', [...], [...], [...])
+ 3 APPPATH\Controllers\Exercise\ExcerciseController.php(64): CodeIgniter\Validation\Validation->run()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->create()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-20 13:53:35 --> strip_tags(): Argument #1 ($string) must be of type string, array given
+in SYSTEMPATH\Validation\Validation.php on line 298.
+ 1 SYSTEMPATH\Validation\Validation.php(298): strip_tags([...])
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('exercise', 'exercise', [...], [...], [...])
+ 3 APPPATH\Controllers\Exercise\AddExcerciseController.php(53): CodeIgniter\Validation\Validation->run()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->createNewExercise()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-20 13:54:48 --> strip_tags(): Argument #1 ($string) must be of type string, array given
+in SYSTEMPATH\Validation\Validation.php on line 298.
+ 1 SYSTEMPATH\Validation\Validation.php(298): strip_tags([...])
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('exercise', 'exercise', [...], [...], [...])
+ 3 APPPATH\Controllers\Exercise\AddExcerciseController.php(53): CodeIgniter\Validation\Validation->run()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->createNewExercise()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-20 13:56:39 --> strip_tags(): Argument #1 ($string) must be of type string, array given
+in SYSTEMPATH\Validation\Validation.php on line 298.
+ 1 SYSTEMPATH\Validation\Validation.php(298): strip_tags([...])
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('exercise', 'exercise', [...], [...], [...])
+ 3 APPPATH\Controllers\Exercise\ExcerciseController.php(64): CodeIgniter\Validation\Validation->run()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->create()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-20 13:56:52 --> strip_tags(): Argument #1 ($string) must be of type string, array given
+in SYSTEMPATH\Validation\Validation.php on line 298.
+ 1 SYSTEMPATH\Validation\Validation.php(298): strip_tags([...])
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('exercise', 'exercise', [...], [...], [...])
+ 3 APPPATH\Controllers\Exercise\ExcerciseController.php(64): CodeIgniter\Validation\Validation->run()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->create()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-20 13:57:19 --> strip_tags(): Argument #1 ($string) must be of type string, array given
+in SYSTEMPATH\Validation\Validation.php on line 298.
+ 1 SYSTEMPATH\Validation\Validation.php(298): strip_tags([...])
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('exercise', 'exercise', [...], [...], [...])
+ 3 APPPATH\Controllers\Exercise\ExcerciseController.php(64): CodeIgniter\Validation\Validation->run()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->create()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-20 13:57:26 --> strip_tags(): Argument #1 ($string) must be of type string, array given
+in SYSTEMPATH\Validation\Validation.php on line 298.
+ 1 SYSTEMPATH\Validation\Validation.php(298): strip_tags([...])
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('exercise', 'exercise', [...], [...], [...])
+ 3 APPPATH\Controllers\Exercise\ExcerciseController.php(64): CodeIgniter\Validation\Validation->run()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->create()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-20 13:57:30 --> strip_tags(): Argument #1 ($string) must be of type string, array given
+in SYSTEMPATH\Validation\Validation.php on line 298.
+ 1 SYSTEMPATH\Validation\Validation.php(298): strip_tags([...])
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('exercise', 'exercise', [...], [...], [...])
+ 3 APPPATH\Controllers\Exercise\ExcerciseController.php(64): CodeIgniter\Validation\Validation->run()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->create()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-20 14:00:03 --> strip_tags(): Argument #1 ($string) must be of type string, array given
+in SYSTEMPATH\Validation\Validation.php on line 298.
+ 1 SYSTEMPATH\Validation\Validation.php(298): strip_tags([...])
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('exercise', 'exercise', [...], [...], [...])
+ 3 APPPATH\Controllers\Exercise\ExcerciseController.php(64): CodeIgniter\Validation\Validation->run()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->create()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-20 14:00:47 --> strip_tags(): Argument #1 ($string) must be of type string, array given
+in SYSTEMPATH\Validation\Validation.php on line 298.
+ 1 SYSTEMPATH\Validation\Validation.php(298): strip_tags([...])
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('exercise', 'exercise', [...], [...], [...])
+ 3 APPPATH\Controllers\Exercise\ExcerciseController.php(64): CodeIgniter\Validation\Validation->run()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->create()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-20 14:01:38 --> Undefined variable $exercise
+in APPPATH\Controllers\Exercise\ExcerciseController.php on line 81.
+ 1 APPPATH\Controllers\Exercise\ExcerciseController.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $exercise', 'F:\\wamp64\\www\\FitnessAp\\app\\Controllers\\Exercise\\ExcerciseController.php', 81)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->create()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-20 14:03:13 --> strip_tags(): Argument #1 ($string) must be of type string, array given
+in SYSTEMPATH\Validation\Validation.php on line 298.
+ 1 SYSTEMPATH\Validation\Validation.php(298): strip_tags([...])
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('exercise', 'exercise', [...], [...], [...])
+ 3 APPPATH\Controllers\Exercise\ExcerciseController.php(64): CodeIgniter\Validation\Validation->run()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->create()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-20 14:03:53 --> strip_tags(): Argument #1 ($string) must be of type string, array given
+in SYSTEMPATH\Validation\Validation.php on line 298.
+ 1 SYSTEMPATH\Validation\Validation.php(298): strip_tags([...])
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('exercise', 'exercise', [...], [...], [...])
+ 3 APPPATH\Controllers\Exercise\ExcerciseController.php(64): CodeIgniter\Validation\Validation->run()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->create()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-20 14:05:27 --> strip_tags(): Argument #1 ($string) must be of type string, array given
+in SYSTEMPATH\Validation\Validation.php on line 298.
+ 1 SYSTEMPATH\Validation\Validation.php(298): strip_tags([...])
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('exercise', 'exercise', [...], [...], [...])
+ 3 APPPATH\Controllers\Exercise\ExcerciseController.php(64): CodeIgniter\Validation\Validation->run()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->create()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-03-20 14:07:09 --> mysqli_sql_exception: Operand should contain 1 column(s) in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT COUNT(*)...', 0)
+#1 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults(true)
+#5 F:\wamp64\www\FitnessAp\app\Controllers\Exercise\ExcerciseController.php(81): CodeIgniter\Model->countAllResults()
+#6 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->create()
+#7 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+#8 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 F:\wamp64\www\FitnessAp\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2024-03-20 14:07:09 --> mysqli_sql_exception: Operand should contain 1 column(s) in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ex...', 0)
+#1 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ex...')
+#2 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ex...')
+#3 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ex...', Array, false)
+#4 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 F:\wamp64\www\FitnessAp\app\Controllers\Exercise\ExcerciseController.php(98): CodeIgniter\Model->insert(Array)
+#8 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->create()
+#9 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+#10 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 F:\wamp64\www\FitnessAp\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-20 15:02:24 --> Array to string conversion
+in APPPATH\Controllers\Exercise\ExcerciseController.php on line 77.
+ 1 APPPATH\Controllers\Exercise\ExcerciseController.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'F:\\wamp64\\www\\FitnessAp\\app\\Controllers\\Exercise\\ExcerciseController.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->create()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-20 15:05:32 --> Array to string conversion
+in APPPATH\Controllers\Exercise\ExcerciseController.php on line 77.
+ 1 APPPATH\Controllers\Exercise\ExcerciseController.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'F:\\wamp64\\www\\FitnessAp\\app\\Controllers\\Exercise\\ExcerciseController.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->create()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-03-20 15:06:49 --> mysqli_sql_exception: Operand should contain 1 column(s) in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT COUNT(*)...', 0)
+#1 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults(true)
+#5 F:\wamp64\www\FitnessAp\app\Controllers\Exercise\ExcerciseController.php(82): CodeIgniter\Model->countAllResults()
+#6 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->create()
+#7 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+#8 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 F:\wamp64\www\FitnessAp\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2024-03-20 15:06:49 --> mysqli_sql_exception: Operand should contain 1 column(s) in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ex...', 0)
+#1 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ex...')
+#2 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ex...')
+#3 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ex...', Array, false)
+#4 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 F:\wamp64\www\FitnessAp\app\Controllers\Exercise\ExcerciseController.php(99): CodeIgniter\Model->insert(Array)
+#8 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\CodeIgniter.php(942): App\Controllers\Exercise\ExcerciseController->create()
+#9 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ExcerciseController))
+#10 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 F:\wamp64\www\FitnessAp\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-20 10:10:14 --> syntax error, unexpected variable "$data"
+in APPPATH\Controllers\Exercise\ExcerciseController.php on line 37.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('F:\\wamp64\\www\\FitnessAp\\app\\Controllers\\Exercise\\ExcerciseController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Exercise\\ExcerciseController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Exercise\\ExcerciseController')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\Exercise\\ExcerciseController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-20 11:40:17 --> Cannot redeclare App\Controllers\Exercise\ProgramController::create()
+in APPPATH\Controllers\Exercise\ProgramController.php on line 114.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()

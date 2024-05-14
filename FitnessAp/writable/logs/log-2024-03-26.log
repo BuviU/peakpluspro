@@ -1,0 +1,302 @@
+ERROR - 2024-03-26 11:01:58 --> mysqli_sql_exception: Unknown column 'membership' in 'where clause' in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT COUNT(*)...', 0)
+#1 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults(true)
+#5 F:\wamp64\www\FitnessAp\app\Controllers\Exercise\MembershipController.php(192): CodeIgniter\Model->countAllResults()
+#6 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\CodeIgniter.php(942): App\Controllers\Exercise\MembershipController->delete('4')
+#7 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\MembershipController))
+#8 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 F:\wamp64\www\FitnessAp\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2024-03-26 11:48:09 --> mysqli_sql_exception: Unknown column 'membership' in 'where clause' in F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT COUNT(*)...', 0)
+#1 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults(true)
+#5 F:\wamp64\www\FitnessAp\app\Controllers\Exercise\MembershipController.php(192): CodeIgniter\Model->countAllResults()
+#6 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\CodeIgniter.php(942): App\Controllers\Exercise\MembershipController->delete('5')
+#7 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\MembershipController))
+#8 F:\wamp64\www\FitnessAp\vendor\codeigniter4\framework\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 F:\wamp64\www\FitnessAp\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-03-26 11:51:35 --> Class "App\Controllers\Exercise\ProgramModel" not found
+in APPPATH\Controllers\Exercise\MembershipController.php on line 190.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\MembershipController->delete('6')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\MembershipController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 11:55:55 --> Class "App\Controllers\Exercise\ProgramModel" not found
+in APPPATH\Controllers\Exercise\MembershipController.php on line 190.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\MembershipController->delete('6')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\MembershipController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 11:57:07 --> Class "App\Controllers\Exercise\ProgramModel" not found
+in APPPATH\Controllers\Exercise\MembershipController.php on line 190.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\MembershipController->delete('6')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\MembershipController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 11:58:50 --> Class "App\Controllers\Exercise\ProgramModel" not found
+in APPPATH\Controllers\Exercise\MembershipController.php on line 190.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\MembershipController->delete('6')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\MembershipController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 12:01:12 --> Class "App\Controllers\Exercise\ProgramModel" not found
+in APPPATH\Controllers\Exercise\MembershipController.php on line 191.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\MembershipController->delete('6')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\MembershipController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 12:18:48 --> Undefined variable $member
+in APPPATH\Views\pages\exercise\program.php on line 78.
+ 1 APPPATH\Views\pages\exercise\program.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $member', 'F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php', 78)
+ 2 SYSTEMPATH\View\View.php(228): include('F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/exercise/program', [], true)
+ 5 APPPATH\Controllers\Exercise\ProgramController.php(37): view('pages/exercise/program', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ProgramController->index('null')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ProgramController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 12:44:28 --> Class "App\Controllers\Exercise\WorkoutsModel" not found
+in APPPATH\Controllers\Exercise\ProgramController.php on line 147.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ProgramController->delete('1')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ProgramController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 12:44:35 --> Class "App\Controllers\Exercise\WorkoutsModel" not found
+in APPPATH\Controllers\Exercise\ProgramController.php on line 147.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ProgramController->delete('1')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ProgramController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 12:45:17 --> Class "App\Models\WorkoutsModel" not found
+in APPPATH\Controllers\Exercise\ProgramController.php on line 148.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ProgramController->delete('1')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ProgramController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 13:26:36 --> Undefined variable $prog
+in APPPATH\Views\pages\exercise\workout.php on line 107.
+ 1 APPPATH\Views\pages\exercise\workout.php(107): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $prog', 'F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\workout.php', 107)
+ 2 SYSTEMPATH\View\View.php(228): include('F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\workout.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/exercise/workout', [], true)
+ 5 APPPATH\Controllers\Exercise\WorkoutController.php(45): view('pages/exercise/workout', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\WorkoutController->index('1', '6')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\WorkoutController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 13:27:18 --> Class "App\Controllers\Exercise\ExerciseModel" not found
+in APPPATH\Controllers\Exercise\WorkoutController.php on line 155.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\WorkoutController->delete('1')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\WorkoutController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 13:27:26 --> Class "App\Controllers\Exercise\ExerciseModel" not found
+in APPPATH\Controllers\Exercise\WorkoutController.php on line 155.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\WorkoutController->delete('1')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\WorkoutController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 13:28:10 --> Undefined variable $w_model
+in APPPATH\Controllers\Exercise\WorkoutController.php on line 159.
+ 1 APPPATH\Controllers\Exercise\WorkoutController.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $w_model', 'F:\\wamp64\\www\\FitnessAp\\app\\Controllers\\Exercise\\WorkoutController.php', 159)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\WorkoutController->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\WorkoutController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 15:08:19 --> Undefined array key "id"
+in APPPATH\Views\pages\exercise\program.php on line 106.
+ 1 APPPATH\Views\pages\exercise\program.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php', 106)
+ 2 SYSTEMPATH\View\View.php(228): include('F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/exercise/program', [], true)
+ 5 APPPATH\Controllers\Exercise\ProgramController.php(38): view('pages/exercise/program', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ProgramController->index('index', '7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ProgramController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 15:08:42 --> Undefined property: CodeIgniter\View\View::$uri
+in APPPATH\Views\pages\exercise\program.php on line 106.
+ 1 APPPATH\Views\pages\exercise\program.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$uri', 'F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php', 106)
+ 2 SYSTEMPATH\View\View.php(228): include('F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/exercise/program', [], true)
+ 5 APPPATH\Controllers\Exercise\ProgramController.php(38): view('pages/exercise/program', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ProgramController->index('index', '7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ProgramController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 15:08:43 --> Undefined property: CodeIgniter\View\View::$uri
+in APPPATH\Views\pages\exercise\program.php on line 106.
+ 1 APPPATH\Views\pages\exercise\program.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$uri', 'F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php', 106)
+ 2 SYSTEMPATH\View\View.php(228): include('F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/exercise/program', [], true)
+ 5 APPPATH\Controllers\Exercise\ProgramController.php(38): view('pages/exercise/program', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ProgramController->index('index', '7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ProgramController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 15:08:43 --> Undefined property: CodeIgniter\View\View::$uri
+in APPPATH\Views\pages\exercise\program.php on line 106.
+ 1 APPPATH\Views\pages\exercise\program.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$uri', 'F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php', 106)
+ 2 SYSTEMPATH\View\View.php(228): include('F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/exercise/program', [], true)
+ 5 APPPATH\Controllers\Exercise\ProgramController.php(38): view('pages/exercise/program', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ProgramController->index('index', '7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ProgramController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 15:08:43 --> Undefined property: CodeIgniter\View\View::$uri
+in APPPATH\Views\pages\exercise\program.php on line 106.
+ 1 APPPATH\Views\pages\exercise\program.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$uri', 'F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php', 106)
+ 2 SYSTEMPATH\View\View.php(228): include('F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/exercise/program', [], true)
+ 5 APPPATH\Controllers\Exercise\ProgramController.php(38): view('pages/exercise/program', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ProgramController->index('index', '7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ProgramController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 15:08:44 --> Undefined property: CodeIgniter\View\View::$uri
+in APPPATH\Views\pages\exercise\program.php on line 106.
+ 1 APPPATH\Views\pages\exercise\program.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$uri', 'F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php', 106)
+ 2 SYSTEMPATH\View\View.php(228): include('F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/exercise/program', [], true)
+ 5 APPPATH\Controllers\Exercise\ProgramController.php(38): view('pages/exercise/program', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ProgramController->index('index', '7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ProgramController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 15:08:44 --> Undefined property: CodeIgniter\View\View::$uri
+in APPPATH\Views\pages\exercise\program.php on line 106.
+ 1 APPPATH\Views\pages\exercise\program.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$uri', 'F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php', 106)
+ 2 SYSTEMPATH\View\View.php(228): include('F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/exercise/program', [], true)
+ 5 APPPATH\Controllers\Exercise\ProgramController.php(38): view('pages/exercise/program', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ProgramController->index('index', '7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ProgramController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 15:08:44 --> Undefined property: CodeIgniter\View\View::$uri
+in APPPATH\Views\pages\exercise\program.php on line 106.
+ 1 APPPATH\Views\pages\exercise\program.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$uri', 'F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php', 106)
+ 2 SYSTEMPATH\View\View.php(228): include('F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/exercise/program', [], true)
+ 5 APPPATH\Controllers\Exercise\ProgramController.php(38): view('pages/exercise/program', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ProgramController->index('index', '7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ProgramController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 15:08:44 --> Undefined property: CodeIgniter\View\View::$uri
+in APPPATH\Views\pages\exercise\program.php on line 106.
+ 1 APPPATH\Views\pages\exercise\program.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$uri', 'F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php', 106)
+ 2 SYSTEMPATH\View\View.php(228): include('F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/exercise/program', [], true)
+ 5 APPPATH\Controllers\Exercise\ProgramController.php(38): view('pages/exercise/program', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ProgramController->index('index', '7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ProgramController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 15:08:44 --> Undefined property: CodeIgniter\View\View::$uri
+in APPPATH\Views\pages\exercise\program.php on line 106.
+ 1 APPPATH\Views\pages\exercise\program.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$uri', 'F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php', 106)
+ 2 SYSTEMPATH\View\View.php(228): include('F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/exercise/program', [], true)
+ 5 APPPATH\Controllers\Exercise\ProgramController.php(38): view('pages/exercise/program', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ProgramController->index('index', '7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ProgramController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 15:08:45 --> Undefined property: CodeIgniter\View\View::$uri
+in APPPATH\Views\pages\exercise\program.php on line 106.
+ 1 APPPATH\Views\pages\exercise\program.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$uri', 'F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php', 106)
+ 2 SYSTEMPATH\View\View.php(228): include('F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/exercise/program', [], true)
+ 5 APPPATH\Controllers\Exercise\ProgramController.php(38): view('pages/exercise/program', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ProgramController->index('index', '7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ProgramController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 15:10:34 --> Undefined property: App\Controllers\Exercise\ProgramController::$uri
+in APPPATH\Controllers\Exercise\ProgramController.php on line 37.
+ 1 APPPATH\Controllers\Exercise\ProgramController.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Exercise\\ProgramController::$uri', 'F:\\wamp64\\www\\FitnessAp\\app\\Controllers\\Exercise\\ProgramController.php', 37)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ProgramController->index('index', '7')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ProgramController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 15:20:35 --> syntax error, unexpected token "echo"
+in APPPATH\Views\pages\exercise\program.php on line 113.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/exercise/program', [], true)
+ 3 APPPATH\Controllers\Exercise\ProgramController.php(40): view('pages/exercise/program', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ProgramController->index('null')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ProgramController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 15:28:03 --> Undefined variable $selected_membership
+in APPPATH\Views\pages\exercise\program.php on line 106.
+ 1 APPPATH\Views\pages\exercise\program.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $selected_membership', 'F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php', 106)
+ 2 SYSTEMPATH\View\View.php(228): include('F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/exercise/program', [], true)
+ 5 APPPATH\Controllers\Exercise\ProgramController.php(40): view('pages/exercise/program', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ProgramController->index('index', '7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ProgramController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 15:28:42 --> Undefined variable $selected_membership
+in APPPATH\Views\pages\exercise\program.php on line 106.
+ 1 APPPATH\Views\pages\exercise\program.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $selected_membership', 'F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php', 106)
+ 2 SYSTEMPATH\View\View.php(228): include('F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/exercise/program', [], true)
+ 5 APPPATH\Controllers\Exercise\ProgramController.php(40): view('pages/exercise/program', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ProgramController->index('index', '7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ProgramController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 15:30:35 --> Undefined variable $selected_membership
+in APPPATH\Views\pages\exercise\program.php on line 106.
+ 1 APPPATH\Views\pages\exercise\program.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $selected_membership', 'F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php', 106)
+ 2 SYSTEMPATH\View\View.php(228): include('F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\program.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/exercise/program', [], true)
+ 5 APPPATH\Controllers\Exercise\ProgramController.php(40): view('pages/exercise/program', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\ProgramController->index('0')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\ProgramController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 16:39:50 --> Undefined variable $member
+in APPPATH\Views\pages\exercise\exercise.php on line 66.
+ 1 APPPATH\Views\pages\exercise\exercise.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $member', 'F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\exercise.php', 66)
+ 2 SYSTEMPATH\View\View.php(228): include('F:\\wamp64\\www\\FitnessAp\\app\\Views\\pages\\exercise\\exercise.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/exercise/exercise', [], true)
+ 5 APPPATH\Controllers\Exercise\AddExcerciseController.php(38): view('pages/exercise/exercise', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\AddExcerciseController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\AddExcerciseController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-26 17:42:26 --> Call to a member function where() on array
+in APPPATH\Controllers\Exercise\MembershipController.php on line 31.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Exercise\MembershipController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Exercise\MembershipController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
