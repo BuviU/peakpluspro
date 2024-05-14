@@ -59,13 +59,25 @@
 
                                               </td>
                                               <td  style="width: 100%;"></td><td style="width: 100%;"></td>
-                                              <td> <button type="button" class="btn2 btn-gradient-primary btn-rounded btn-fw" style="padding: 10px 30px !important; border-radius: 25px !important;">Open</button></td>
+                                              <!-- <td> <button type="button" class="btn2 btn-gradient-primary btn-rounded btn-fw" style="padding: 10px 30px !important; border-radius: 25px !important;">Open</button></td>
                                               <td>   <div class="ribbon">
                                                 <a href="#" id="myAnchor" class="exercise_id" data-id=<?php echo $excize['id'] ?> ><i class="mdi mdi-pencil"></i></a>
                                               </div></td>
                                               <td>   <div >
                                                 <a class="btn btn-danger btn-sm remove-button btn_del" style="float: right;" data-id="<?php echo $excize['id'] ?>"><i class="mdi mdi-delete"></i></a>
-                                              </div></td>
+                                              </div></td> -->
+                                              <td>
+                                                <div class="btn-group" role="group" aria-label="Basic example" style="float: right;">
+                                                  <a type="button" class="btn btn-outline-primary btn-fw" data-id=<?php echo $excize['id'] ?>>
+                                                  Open
+                                                    </a>
+
+                                                    <a href="#" id="myAnchor" type="button" class="btn btn-outline-primary edit_btn exercise_id" data-id=<?php echo $excize['id'] ?>  >
+                                                        <i class="mdi mdi-pencil-outline"></i>
+                                                    </a> 
+    
+                                                  </div>
+                                              </td>
                                             </tr>
                                           <?php } ?>
                                         </div>

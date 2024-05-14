@@ -57,7 +57,7 @@
                           <?php echo $client['email']; ?>
                       </td>
                       <td  style="width: 100%;"></td><td style="width: 100%;"></td>
-                      <td> <button type="button" class="btn1 btn-gradient-primary btn-rounded btn-fw"  onclick="window.location.href='<?= base_url('editUser/' . $client['user_id']) ?>'">Edit</button></td>
+                      <td> <button type="button" class="btn1 btn-outline-primary btn-rounded btn-fw"  onclick="window.location.href='<?= base_url('editUser/' . $client['user_id']) ?>'"><i class="mdi mdi-pencil"></i></button></td>
                   </tr>
               <?php endforeach; ?>
 

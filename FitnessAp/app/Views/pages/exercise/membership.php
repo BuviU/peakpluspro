@@ -65,12 +65,22 @@
                               </div>
                             </div>
                           </div>
-                          <div >
+                          <!-- <div >
                             <a class="btn btn-danger btn-sm remove-button btn_del" style="float: right;" data-id="<?php echo $member['id'] ?>"><i class="mdi mdi-delete"></i></a>
                           </div>
                           <div class="ribbon">
                             <a href="#" id="myAnchor" class="member_id" data-id=<?php echo $member['id'] ?> ><i class="mdi mdi-pencil"></i></a>
-                          </div>
+                          </div> -->
+
+                          <div class="btn-group" role="group" aria-label="Basic example" style="float: right;">
+                              
+                              <a href="#" id="myAnchor" type="button" class="btn btn-outline-primary edit_btn member_id" data-id=<?php echo $member['id'] ?> >
+                                  <i class="mdi mdi-pencil-outline"></i>
+                              </a> 
+                              <a type="button" class="btn btn-outline-primary remove-button btn_del" data-id="<?php echo $member['id'] ?>">
+                                  <i class="mdi mdi-delete"></i>
+                              </a>  
+                            </div>
 
                         </div>
                       </div>

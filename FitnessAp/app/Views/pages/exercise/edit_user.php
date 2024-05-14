@@ -1,4 +1,4 @@
-
+<?= view('layouts/header'); ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -6,7 +6,7 @@
    
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/style.css">
     
-    <?= view('layouts/header'); ?>
+
 </head>
 
 <body>
@@ -19,87 +19,30 @@
     <div class="main-panel">
         <div class="content-wrapper">
 
-            <div class="row">
+            <div class="row mt-5">
                 <div class="col-md-8 grid-margin">
                     <!-- <div class="card">
                       <div class="card-body">                     -->
                     <div class="table-responsive">
                         <table class="table">
-                            <thead>
-
-                            <tr>
-                                <div class="search-field d-none d-md-block">
-                                    <form class="d-flex align-items-center" action="#" method="post">
-                                        <input type="hidden" id="user_id" value="<?php echo $user['user_id'] ?>">
-                                        <div class="input-group" style="border: none;">
-                                            <label class="form-control form-check-label1" style="border: none;
-                                font-size: 1.125rem; padding-top: 40px;"><img
-                                                        src="<?php echo base_url(); ?>assets/images/faces/face1.jpg"
-                                                        class="me-2" alt="image"
-                                                        style="border-radius: 50px; width: 40px; height: 40px !important;margin-left: -10px;">Coach
-                                                Mohan</label>
-
-                                        </div>
-                                        <div class="input-group" style="border: none; ">
-                                            <label class="form-control form-check-label" style="border: none;
-                                   font-size: 1.125rem;"><strong>User Profile</strong></label>
-                                            <div class="input-group-append">
-                                                <button type="button" class="btn btnlightpurple  btn-fw"
-                                                        style="padding: 10px 30px !important; border-radius: 25px !important; vertical-align: middle !important;">
-                                                    Add New Users
-                                                </button>
-                                            </div>
-                                        </div>
-                                        <div class="input-group">
-                                            <input type="search" class="form-control"
-                                                   placeholder="Search Your Exercise Here..." aria-label="Search Users"
-                                                   aria-describedby="basic-addon2"
-                                                   style="padding: 20px 30px !important; border-radius: 15px !important;">
-
-                                        </div>
-
-                                    </form>
-                                </div>
-                            </tr>
-                            </thead>
                             <tbody>
 
                             <tr>
                                 <td style="width: 100%;">
                                     <img src="<?php echo base_url(); ?>assets/images/faces/face1.jpg" class="me-2"
-                                         alt="image"> David Grey <br><br>
-                                    david@gmail.com
+                                         alt="image"> User's Full name <br><br>
+                                   
                                 </td>
                                 <td style="width: 100%;"></td>
                                 <td style="width: 100%;"></td>
-                                <td>
+                                <!-- <td>
                                     <button type="button" class="btn1 btn-gradient-primary btn-rounded btn-fw">Edit
                                     </button>
-                                </td>
+                                </td> -->
                             </tr>
 
                             </tbody>
                         </table>
-                    </div>
-                    <br><br>
-
-                    <div class="row">
-                        <div class="col-md-1">
-
-                        </div>
-                        <div class="col-md-6">
-                            <img src="<?php echo base_url(); ?>assets/images/faces/profile.png" class="me-2"
-                                 alt="image"> <label><h5 style="text-align: center;"><strong>Good Morning David
-                                        !</strong><br>Continue Your Journey And Achieve <br>Your Target</h5></label>
-                        </div>
-
-                        <div class="col-md-4">
-                            <button type="button" class="btn btnlightpurple  btn-fw "
-                                    style="padding: 10px 20px !important; border-radius: 25px !important; vertical-align: middle !important;"></button>
-                        </div>
-                        <div class="col-md-1">
-
-                        </div>
                     </div>
                     <br><br>
 
@@ -144,10 +87,10 @@
 
                     <div class="row">
                         <!-- Membership -->
-                        <div class="col-md-4 grid-margin stretch-card">
+                        <div class="col-md-6 grid-margin stretch-card">
                             <div class="card">
                                 <div class="card-body mini-marg">
-                                    <div class="table-responsive">
+                                    <!-- <div class="table-responsive"> -->
                                         <table class="table">
                                             <form class="d-flex align-items-center  " action="#">
                                                 <div class="input-group" style="border: none; ">
@@ -160,174 +103,58 @@
 
                                             <tr>
                                                 <td style="width: 100%;" class="card-label1">
-                                                    <img src="<?php echo base_url(); ?>assets/images/faces/face1.jpg"
-                                                         class="me-2" alt="image"> David Grey <br><br>
-                                                    david@gmail.com
+                                                    <img src="<?php echo base_url(); ?>assets/images/faces/member-card.png"
+                                                         class="me-2" alt="image"> Membership 1 <br><br>
                                                 </td>
 
-                                                <td>
-                                                    <button type="button"
-                                                            class="btn1 btn-gradient-primary btn-rounded btn-fw"
-                                                            style="padding: 10px 20px !important; border-radius: 25px !important;">
-                                                        Follow
-                                                    </button>
-                                                </td>
                                             </tr>
                                             <tr>
-                                                <td class="card-label1">
-                                                    <img src="<?php echo base_url(); ?>assets/images/faces/face2.jpg"
-                                                         class="me-2" alt="image"> Stella Johnson <br><br>
-                                                    stella@gmail.com
+                                                <td style="width: 100%;" class="card-label1">
+                                                    <img src="<?php echo base_url(); ?>assets/images/faces/member-card.png"
+                                                         class="me-2" alt="image"> Membership 2 <br><br>
                                                 </td>
 
-                                                <td>
-                                                    <button type="button"
-                                                            class="btn1 btn-gradient-primary btn-rounded btn-fw"
-                                                            style="padding: 10px 20px !important; border-radius: 25px !important;">
-                                                        Follow
-                                                    </button>
-                                                </td>
                                             </tr>
-                                            <tr>
-                                                <td class="card-label1">
-                                                    <img src="<?php echo base_url(); ?>assets/images/faces/face3.jpg"
-                                                         class="me-2" alt="image"> Marina Michel <br><br>
-                                                    Marina@gmail.com
-                                                </td>
 
-                                                <td>
-                                                    <button type="button"
-                                                            class="btn1 btn-gradient-primary btn-rounded btn-fw"
-                                                            style="padding: 10px 20px !important; border-radius: 25px !important;">
-                                                        Follow
-                                                    </button>
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td class="card-label1">
-                                                    <img src="<?php echo base_url(); ?>assets/images/faces/face4.jpg"
-                                                         class="me-2" alt="image"> John Doe <br><br>
-                                                    Marina@gmail.com
-                                                </td>
-
-                                                <td>
-                                                    <button type="button"
-                                                            class="btn1 btn-gradient-primary btn-rounded btn-fw"
-                                                            style="padding: 10px 20px !important; border-radius: 25px !important;">
-                                                        Follow
-                                                    </button>
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td class="card-label1">
-                                                    <img src="<?php echo base_url(); ?>assets/images/faces/face4.jpg"
-                                                         class="me-2" alt="image"> Karina Doe <br><br>
-                                                    Karina@gmail.com
-                                                </td>
-
-                                                <td>
-                                                    <button type="button"
-                                                            class="btn1 btn-gradient-primary btn-rounded btn-fw"
-                                                            style="padding: 10px 20px !important; border-radius: 25px !important;">
-                                                        Follow
-                                                    </button>
-                                                </td>
-                                            </tr>
                                             </tbody>
                                         </table>
-                                    </div>
+                                    <!-- </div> -->
                                 </div>
                             </div>
                         </div>
 
                         <!-- Program -->
-                        <div class="col-md-8 grid-margin stretch-card">
+                        <div class="col-md-6 grid-margin stretch-card">
                             <div class="card">
                                 <div class="card-body mini-marg">
                                     <!-- <div class="table-responsive"> -->
                                     <table class="table">
-                                        <thead>
-                                        <tr>
-                                            <div class="search-field d-none d-md-block">
-                                                <form class="d-flex align-items-center" action="#">
-                                                    <div class="input-group" style="border: none; ">
-                                                        <label class="form-control form-check-label" style="border: none;
-                                                 font-size: 1.125rem;"><strong>Programs</strong></label>
+                                            <form class="d-flex align-items-center  " action="#">
+                                                <div class="input-group" style="border: none; ">
+                                                    <label class="form-control form-check-label" style="border: none;
+                                                font-size: 1.125rem;"><strong>Programs</strong></label>
 
-                                                    </div>
-                                                </form>
-                                            </div>
-                                        </tr>
-                                        </thead>
-                                        <br>
-                                        <tbody>
-                                        <div class="row">
-                                            <div class="col-md-6 stretch-card grid-margin">
-                                                <div class="card  card-img-holder ">
-                                                    <div class="card-body mini-marg">
-                                                        <div class="video-container">
-                                                            <video controls class="vid1">
-                                                                <source src="your_video.mp4" type="video/mp4">
-                                                                Your browser does not support the video tag.
-                                                            </video>
-                                                        </div>
-                                                        <br>
-                                                        <h5><span class="fontbackg">FRONTEND</span></h5>
-                                                        <h5>Phase 1</h5>
-                                                        <div class="progress">
-                                                            <div class="progress-bar bg-success" role="progressbar"
-                                                                 style="width: 55%" aria-valuenow="55" aria-valuemin="0"
-                                                                 aria-valuemax="100"></div>
-                                                        </div>
-                                                        <br>
-                                                        <div class="description">
-                                                            <div class="row">
-                                                                <div class="col-md-7">
-                                                                    <p class="txt1">17 Workouts</p>
-                                                                </div>
-                                                                <div class="col-md-5">
-                                                                    <p class="txt1">331 Users</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
                                                 </div>
-                                            </div>
-                                            <div class="col-md-6 stretch-card grid-margin">
-                                                <div class="card  card-img-holder ">
-                                                    <div class="card-body mini-marg">
-                                                        <div class="video-container">
-                                                            <video controls class="vid1">
-                                                                <source src="your_video.mp4" type="video/mp4">
-                                                                Your browser does not support the video tag.
-                                                            </video>
-                                                        </div>
-                                                        <br>
-                                                        <h5><span class="fontbackg">FRONTEND</span></h5>
-                                                        <h5>Phase 2</h5>
-                                                        <div class="progress">
-                                                            <div class="progress-bar bg-success" role="progressbar"
-                                                                 style="width: 45%" aria-valuenow="45" aria-valuemin="0"
-                                                                 aria-valuemax="100"></div>
-                                                        </div>
-                                                        <br>
-                                                        <div class="description">
-                                                            <div class="row">
-                                                                <div class="col-md-7">
-                                                                    <p class="txt1">17 Workouts</p>
-                                                                </div>
-                                                                <div class="col-md-5">
-                                                                    <p class="txt1">331 Users</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                            </form>
+                                            <tbody>
 
-                                        </div>
-                                        </tbody>
-                                    </table>
+                                            <tr>
+                                                <td style="width: 100%;" class="card-label1">
+                                                    <img src="<?php echo base_url(); ?>assets/images/faces/member-card.png"
+                                                         class="me-2" alt="image"> program 1 <br><br>
+                                                </td>
+
+                                            </tr>
+                                            <tr>
+                                                <td style="width: 100%;" class="card-label1">
+                                                    <img src="<?php echo base_url(); ?>assets/images/faces/member-card.png"
+                                                         class="me-2" alt="image"> program 2 <br><br>
+                                                </td>
+
+                                            </tr>
+
+                                            </tbody>
+                                        </table>
                                     <!-- </div> -->
                                 </div>
                             </div>
@@ -542,7 +369,7 @@
                 </div>
             </footer> -->
             <!-- partial -->
-            <?= view('layouts/footer'); ?>
+           
         </div>
         <!-- main-panel ends -->
     </div>
@@ -599,4 +426,5 @@
 
 
 </body>
+<?= view('layouts/footer'); ?>
 </html>

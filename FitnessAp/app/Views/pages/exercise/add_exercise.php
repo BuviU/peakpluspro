@@ -98,7 +98,7 @@
                                       <td><?php echo $singleExercise['weight']; ?></td>
                                       <td>
                                         
-                                          <button type="button" class="btn1 btn-gradient-primary btn-rounded btn-fw edit_btn" value="<?php echo $singleExercise['id']; ?>" style="background:linear-gradient(to right, #e2d5ff, #a68edb);"><i class="mdi mdi-pencil"></i></button>
+                                          <button type="button" class="btn1 btn-outline-primary btn-rounded btn-fw edit_btn" value="<?php echo $singleExercise['id']; ?>" ><i class="mdi mdi-pencil"></i></button>
                                         
                                       </td>
                                     </tr>

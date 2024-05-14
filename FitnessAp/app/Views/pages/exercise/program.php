@@ -71,14 +71,27 @@
                                                       </div>
                                                     </div>
                                                   </div>
-                                                  <div >
+                                                  <!-- <div >
                                                     <a class="btn btn-danger btn-sm remove-button btn_del" style="float: right;" data-id="<?php echo $prog['id'] ?>"><i class="mdi mdi-delete"></i></a>
                                                   </div>
                                                   <div class="ribbon">
                                                    <a href="#" id="myAnchor" class="program_edit" data-id=<?php echo $prog['id'] ?> ><i class="mdi mdi-pencil"></i></a>
                                                  </div>
-                                                 <button class="btn1 btn-primary add-workouts" data-program = "<?php echo $prog['id'] ?>" data-membership = "<?php echo $prog['membership'] ?>">Add Workouts</button>
-                                               </div>
+                                                 <button class="btn1 btn-primary add-workouts" data-program = "<?php echo $prog['id'] ?>" data-membership = "<?php echo $prog['membership'] ?>">Add Workouts</button> -->
+                                               
+                                                 <div class="btn-group" role="group" aria-label="Basic example" style="float: right;">
+                                                 <a type="button" class="btn btn-outline-primary add-workouts" data-program = "<?php echo $prog['id'] ?>" data-membership = "<?php echo $prog['membership'] ?>">
+                                                 Add Workouts
+                                                  </a>
+
+                                                  <a href="#" id="myAnchor" type="button" class="btn btn-outline-primary edit_btn program_edit" data-id=<?php echo $prog['id'] ?> >
+                                                      <i class="mdi mdi-pencil-outline"></i>
+                                                  </a> 
+  
+                                                </div>
+                                               
+                                               
+                                                </div>
                                              </div>
                                            </div>
                                          <?php } ?>
